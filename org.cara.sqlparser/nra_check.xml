@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Extra>
+	<Datasets>
+		<Dataset>
+			<id>datasetNra</id>
+			<Fields>
+				<Field>
+					<label>账号</label>
+					<name>field0</name>
+				</Field>
+				<Field>
+					<label>名称</label>
+					<name>field1</name>
+				</Field>
+				<Field>
+					<label>地址</label>
+					<name>field2</name>
+				</Field>
+			</Fields>
+		</Dataset>
+	</Datasets>
+</Extra>

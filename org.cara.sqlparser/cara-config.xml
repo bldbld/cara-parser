@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CaraConfig XML -->
+<xml-body>
+	<properity>
+		<name>DbDefineDir</name>
+		<value>test.db.</value>
+		<!--
+			Used Files:
+		-->
+	</properity>
+	<properity>
+		<name>ImportName</name>
+		<value>test.db</value>
+		<!-- 存放数据库表字段定义文件的包名。
+			Used Files: 
+			org.cara.core.FieldLengthOutput.java 
+			org.cara.core.FieldParser.java -->
+	</properity>
+</xml-body>
